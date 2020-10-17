@@ -92,8 +92,8 @@ Test Error Score: 4.98 RMSE
 ![output_1](/fig/pre-2.png)
 
 ```console
-Train Score: 1.66 RMSE
-Test Score: 6.55 RMSE
+Train Error Score: 1.66 RMSE
+Test Error Score: 6.55 RMSE
 ```
 
 <p style="color:#008845"><b>Here also get about perfect result.</b></p>
